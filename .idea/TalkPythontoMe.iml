@@ -5,8 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/04-Journal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06-CatFactory" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/07-WizardGame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09-RealEstateDataMiner" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.5.1 virtualenv at ~/Desktop/TPTM Course/env" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.5.2 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
